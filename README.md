@@ -18,4 +18,6 @@ These are just a few examples of how you can apply large language models at a di
 
 Below you can find what you have to change and then, just run cell by cell. This is just an example and shows, how to apply large language models at a distributed scale using Azure Open AI and Azure Synapse Analytics.
 
+The goal was to have one Notebook that you can easily run and execute in your Synapse Workspace. Of course you can also load data directly form ADLS or other databases. For more information on loading and preparing Spark dataframes, have a look here: https://spark.apache.org/docs/latest/sql-data-sources.html
+
 ![image](https://user-images.githubusercontent.com/38947100/229354533-4eb48dae-e6d3-41b6-bcb1-9103a8c2841c.png)
