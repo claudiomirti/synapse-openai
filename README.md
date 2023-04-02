@@ -1,4 +1,4 @@
-# synapse-openai
+# Synapse-OpenAI
 
 The Azure OpenAI service can be used to solve a large number of natural language tasks through prompting the completion API. To make it easier to scale your prompting workflows from a few examples to large datasets and integrated the Azure OpenAI service with the distributed machine learning library SynapseML. 
 Besides this, some potential use cases for applying large language models at a distributed scale by using Azure OpenAI and Azure Synapse Analytics are:
